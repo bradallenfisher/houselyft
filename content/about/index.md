@@ -5,15 +5,8 @@ eleventyNavigation:
   order: 3
 ---
 # Hi, I'm Jaime Belle {style="text-align:center"}
-![Jaime Belle.](/img/jaime.jpg) {style="text-align:center"}
-  
-## Background
+![Jaime Belle.](/img/jaime-about.jpg) {style="text-align:center"}
 
-Katie Rossi is not just a passionate writer from the coastal town of Santa Monica, California, but also a seasoned real estate consultant with over a decade of experience in the industry. With a keen eye for design and a heart that understands the emotional intricacies of finding a home, Katie specializes in offering creative solutions to the most challenging housing problems.
+At the intersection of technology and daily life, you'll find me exploring the latest in smart home advancements. As a dedicated expert in this field, I'm not just about understanding the nuances of home automation; I'm passionate about making it accessible and beneficial for everyone. 
 
-## Education
-
-Having graduated with a degree in [Urban Planning from UCLA](https://luskin.ucla.edu/urban-planning), Katie combines her academic knowledge with her on-ground experience to ensure her clients find homes that aren't just structures, but spaces that resonate with their dreams and aspirations. Whether it's transforming a compact city apartment into a spacious haven or finding a hidden gem in the bustling real estate market, Katie's innovative approach has made her one of the most sought-after consultants in the area.
-
-## Lifestyle
-Outside of her professional life, Katie's love for literature and the arts often finds its way into her work. She believes that every home has a story to tell, and she's dedicated to helping her clients write theirs. When she's not scouting properties or drafting articles, Katie can be found exploring hidden beaches, sipping on a cup of jasmine tea, or diving into a classic novel. Her writings, a blend of her professional insights and personal journeys, have been featured in various literary magazines, and she's currently working on a book that melds her love for real estate with her passion for storytelling.
+Through my writings and discussions, I aim to showcase how the right tech can transform our homes into spaces of efficiency, comfort, and sustainability. Beyond the gadgets and systems, my true mission is to elevate living standards for all. Join me on this journey to discover the future of intelligent living.
