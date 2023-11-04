@@ -74,4 +74,4 @@ As experienced real estate investors, **we buy houses in Rome Georgia** for cash
 
 If you're based in Acworth or Rome, GA, and **need to sell your house fast**, we are your go-to option. We are experienced **cash home buyers in Rome and Acworth Georgia** ready to offer cash for your home. This takes away the burden of long waiting periods, expensive renovations, and complicated paperwork that comes with traditional house selling. 
 
-For more detailed information and to kickstart the swift sale of your home, click [here](https://www.wearehomebuyers.com/we-buy-houses-rome-ga/).
+For more detailed information and to kickstart the swift sale of your home, click [here](https://www.wearehomebuyers.com/sell-my-house-fast-acworth-ga/).
