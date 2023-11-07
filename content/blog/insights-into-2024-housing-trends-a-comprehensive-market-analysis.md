@@ -5,9 +5,9 @@ featured_img: /img/insights-into-2024-housing-trends-a-comprehensive-market-anal
 alt_text: "Insights into 2024 Housing Trends: A Comprehensive Market Analysis"
 date: 2023-11-07
 tags:
- - Housing Market
- - Trends
- - Data
+ - housing market
+ - trends
+ - data
 type: post
 meta:
   site:
