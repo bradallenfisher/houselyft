@@ -82,7 +82,7 @@ Understanding the market value of your home is imperative. It helps you set a re
 
 ### Possible to Sell
 
-Is it possible to sell a house in such a short time frame? Absolutely, with the right approach. That includes a strong online presence, a home that's move-in ready, and an attractive price point.
+Is it possible to [sell a house in such a short time frame](https://swifthomeshifts.com/blog/quick-guide-sell-your-house-within-5-days-with-these-proven-strategies/)? Absolutely, with the right approach. That includes a strong online presence, a home that's move-in ready, and an attractive price point.
 
 ### Cash Home Buyer
 
